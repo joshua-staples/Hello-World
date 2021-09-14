@@ -1,8 +1,8 @@
-# Hello World Demo
+# Overview
 
-A simple repo of a hello world project. Used for the purpose of learning git and Github.
+A simple repo of a hello world project. Used for the purpose of learning git and Github. This project also serves as a good temple of a github project that uses gitignore to hide the virtual environemnt (venv) when published to Github.
 
-## Tools
+## Development Environment
 
 * Pyhton
 * Visual Studio Code
@@ -11,6 +11,7 @@ A simple repo of a hello world project. Used for the purpose of learning git and
 ## Useful Links
 
 * [Pyhton Website](python.org)
+* [Youtube](youtube.com)
 
 # Contact Me
 sta16016@byui.edu or josh@stapleszoo.com
