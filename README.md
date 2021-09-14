@@ -11,7 +11,7 @@ A simple repo of a hello world project. Used for the purpose of learning git and
 ## Useful Links
 
 * [Pyhton Website](python.org)
-* [Youtube](youtube.com)
+* [Youtube Video Description](https://youtu.be/kAarb8R59jc)
 
 # Contact Me
 sta16016@byui.edu or josh@stapleszoo.com
